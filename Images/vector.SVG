@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.79094in" height="7.07201in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7.59011 7.90425"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#49C4EB}
+    .fil2 {fill:#AD49EB}
+    .fil1 {fill:#EB49B4}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <rect x="0.817034" y="0.180083" width="6.77308" height="7.72416"/>
+    </clipPath>
+    <clipPath id="id1">
+     <path d="M0.817034 7.90425l6.77308 0 0 -7.72416 -6.77308 0 0 7.72416z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <rect x="0.817034" y="0.180083" width="6.77308" height="7.72416"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_163582184">
+   <path id="_163935224" class="fil0" d="M5.14845 3.39331c-0.087848,1.76724 1.23716,2.21398 1.91064,2.21645 -1.37372,0.339177 -4.59199,0.471336 -6.47525,-1.71335 -2.35409,-2.73086 3.04361,-4.15136 4.47665,-3.85901 1.43304,0.292353 0.197764,1.14686 0.087958,3.35592z"/>
+   <path id="_163581560" class="fil1" d="M4.96164 3.8641c-0.603592,1.66329 0.531493,2.47988 1.17448,2.68026 -1.41272,-0.0797294 -4.52759,-0.89969 -5.68524,-3.54155 -1.44706,-3.30232 4.12971,-3.07292 5.41344,-2.37214 1.28374,0.700795 -0.148194,1.15432 -0.902682,3.23344z"/>
+   <path id="_163580576" class="fil2" d="M4.59318 4.22907c-0.923557,1.36388 -0.0849526,2.3594 0.449788,2.68668 -1.25699,-0.393657 -3.88181,-1.84304 -4.32515,-4.49123 -0.554181,-3.31023 4.42726,-1.83331 5.42641,-0.908455 0.999146,0.924864 -0.39661,1.00816 -1.55105,2.713z"/>
+   <g style="clip-path:url(#id0)">
+   </g>
+   <g style="clip-path:url(#id1)">
+    <image id="_161930848" transform="matrix(1 0 0 1 -2.57844 3.83326)" x="3.39547" y="-3.65318" width="6.77308" height="7.72416" xlink:href="vector_Images\vector_ImgID1.png"/>
+   </g>
+   <g style="clip-path:url(#id2)">
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoster website</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="fontawesome-free-6.0.0-beta3-web/css/all.min.css">
+</head>
+
+<body>
+    <div class="main">
+        <nav class="nav">
+            <img src="Images/Logo.svg" alt="">
+            <div class="hiring">
+                <h6>Hoster is hiring!</h6>
+            </div>
+            <ul class="nav-items">
+                <li><a href="">Plans</a></li>
+                <li><a href="">Find Domain</a></li>
+                <li><a href="">Why Hoster</a></li>
+            </ul>
+
+            <button id="sign-in">Sign in</button>
+            <button onclick="waitList()" id="Join">Join Waitlist</button>
+
+            <div id="mySidenav" class="sidenav">
+                <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                <a onclick="closeNav()" href="#about">About</a>
+                <a onclick="closeNav()" href="#project">Project</a>
+                <a onclick="closeNav()" href="#services">Services</a>
+                <button onclick="waitList()" id="Waitlist">Join Waitlist</button>
+            </div>
+            <span id="bar" onclick="openNav()"><i class="fa-solid fa-bars"></i></span>
+        </nav>
+
+        <div class="container">
+            <div class="flex1">
+                <h2>Host your Website in <br> Less than five minutes</h2>
+                <p class="hoster">With hosterr, get website up and running in less than 5 <br> minute with the most
+                    competitive pricing package available <br> online </p>
+                <form method="post" action="mailto:aderibigbeemmanuel2004@gmail.com" enctype="text/plain">
+                    <div class="aa">
+                        <input class="ee" id="email" type="email" placeholder="Your Email here" required>
+                        <button onclick="waitList()" id="wait" type="submit">Join Waitlist</button>
+                    </div>
+                    <div class="spam">
+                        <img src="Images/Checkmark.svg" alt="">
+                        <p>No spam ever Unsubscribe anytime</p>
+                    </div>
+                </form>
+            </div>
+            <div class="flex2">
+                <div class="img">
+                    <img id="gg" src="Images/v bg.jpg" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="social">
+                <a href="#">Facebook</a>
+                <a href="#">Instagram</a>
+                <a href="#">Twitter</a>
+            </div>
+
+            <div class="chat">
+                <img src="Images/Help Avatar.svg" alt="">
+                <div class="specialist">
+                    <p>Have any question ?</p>
+                    <h6>Talk to a specialist </h6>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
