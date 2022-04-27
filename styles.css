@@ -194,6 +194,9 @@ body {
 
 
 @media screen and (max-width:600px) {
+    .nav {
+        padding: 15px 15px;
+    }
     .nav-items{
         display: none;
     }
